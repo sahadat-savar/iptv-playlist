@@ -1,10 +1,347 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="BTV" tvg-logo="https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png" group-title="Bangla",BTV
+# ================= Bangla =================
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 
-#EXTINF:-1 tvg-name="BTV News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4GdTIOJgWg5_BCr3ZDvEzBOMt6gt0QoybcQ&usqp=CAU" group-title="Bangla | News",BTV News
+#EXTINF:-1 tvg-logo="" group-title="Bangla",BTV Chattogram
+https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla | News",BTV News
 https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
 
-#EXTINF:-1 tvg-name="BTV Sangsad" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png" group-title="Bangla",BTV Sangsad
-https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Bangla",BTV Sangsad
+#https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Channel I
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",RTV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/rtv-sg.stream/tracks-v1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="Bangla",ATN Bangla
+http://103.144.89.251:8082/ATN.BANGLA.HD/tracks-v1a1/mono.m3u8?token=887d3b80bfef48275bd3ef44ca73c21812bd5440-d9bdb8b3bb77d9f0525d4f4ba3b2e91b-1774557824-1774547024
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Banglavision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Maasranga TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla", Gazi TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Deepto TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="1" group-title="Bangla",BOISHAKHI TV
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",SATV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Mohona TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Asian TV
+http://103.229.254.25:7001/play/a063/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Global TV
+https://bozztv.com/rongo/rongo-GlobalTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Channel S HD
+https://bozztv.com/rongo/rongo-ChannelS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Ekattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Ekushay TV HD
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="Bangla",Bijoy TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/bijoy00.stream/tracks-v1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="1" group-title="Bangla",Desh TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/deshtv.stream/tracks-v1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="1" group-title="Bangla",Ananda TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",NAGORIK TV
+http://103.144.89.251:8082/NAGORIK.TV.HD/tracks-v1a1/mono.m3u8?token=95f0a2d18e10af6a25f4a26904e72bdb870cc058-9a18abb0e6bf0b8772bab01841d32892-1774561004-1774550204
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Channel 9
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",MY TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",ATN News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",SOMOY TV
+#https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",INDEPENDENT TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",JAMUNA TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",NEWS 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Star News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",DBC News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Peace tv Bangla
+http://103.144.89.251:8082/PEACE.TV.BANGLA.HD/tracks-v1a1/mono.m3u8?token=e51036a462150c8875842e3191aa788f6ed0bf5c-9f4db79e74c38600e62ad25a884e0ab8-1774562535-1774551735
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Madani Channel Bangla
+http://103.144.89.251:8082/MADANI.TV.HD/tracks-v1a1/mono.m3u8?token=374d157bd5f9721a9f9229f1ecb735a93601f9d4-a42757c1a808d2d9c73bd3ad1904099e-1774562581-1774551781
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Star Jalsha
+http://103.182.170.32:8888/play/a046
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Jalsha Movies
+http://103.229.254.25:7001/play/a0dt/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Zee Bangla
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
+
+#EXTINF:-54 tvg-logo="" group-title="Bangla",Zee Bangla Cinema
+#http://103.182.170.32:8888/play/a044
+http://103.144.89.251:8082/ZEE.BANGLA.CINEMA/tracks-v1a1/mono.m3u8?token=e3853cddb13fc12791578d19012337e921cf36e3-1ed7b51779614efd51febe68ce7a5fec-1774564429-1774553629
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Colors Bangla
+http://103.229.254.25:7001/play/a0ds/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Colors Bangla Cinema
+http://103.144.89.251:8082/COLORS.BANGLA.CINEMA/tracks-v1a1/mono.m3u8?token=e08933f10d51412b5f986db8c3b183431c8e30b2-cbc9896e5bea3d936e9362e0f4fcd818-1774565230-1774554430
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",SUN Bangla
+http://103.144.89.251:8082/SUN.BANGLA.HD/tracks-v1a1/mono.m3u8?token=23d385ba4e7e09eb57d5abd5b798db82f19b2cf2-4f86c056644e253e4de6045dd5ba2355-1774565292-1774554492
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",DD Bangla
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/7ff57cc9046b4c188b51a0d506f36e7f/index_3.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",AAKASH AATH
+https://mumt03.tangotv.in/AAKASHAATH/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Sony Aath
+http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",ZB CINEMA
+#https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Khushboo Bangla
+http://103.175.73.12:8080/live/375/375_0.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Sangeet Bangla
+http://103.175.73.12:8080/live/379/379_0.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Gopal Bhar Bangla
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",ETV BAL BHARAT
+http://103.144.89.251:8082/ETV.BAL.BHARAT/tracks-v1a1/mono.m3u8?token=e21ef16e45025fe6a07cd379ebdb54a3bcb526d5-7615b7eeb87dd7dbc1128f34fea53bb3-1774566398-1774555598
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Duronto TV
+http://103.144.89.251:8082/DURANTA.TV.HD/tracks-v1a1/mono.m3u8?token=19eaded998252d05e190279ab5c26f4861563f5b-e7d1203d25882357e40aa15fdb61bd1b-1774566521-1774555721
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Nick
+http://103.144.89.251:8082/NICK/tracks-v1a1/mono.m3u8?token=448b70f7637c60d41c8502727da893472885268a-827a45415a1abb2bac27a5b9f8561c1c-1774566627-1774555827
+
+#EXTINF:-1 tvg-logo="" group-title="Bangla",Sonic
+http://103.144.89.251:8082/SONIC/tracks-v1a1/mono.m3u8?token=f4b533d099563e3f6ac011ae6a428e7023bf5150-3c87565451e16603715ed6f35bb33010-1774566691-1774555891
+
+# ================= Hindi =================
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",Ant Picturs
+http://103.144.89.251:8082/ANT.PICTURS.HD/tracks-v1a1/mono.m3u8?token=a23f372de2f8b6b925c0d9fff2d485822b13be35-791b8e8ac3a2ec8817c6e2ca347cc940-1774566777-1774555977
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",Colors Cineplex
+http://103.144.89.251:8082/COLORS.CINEPLEX.HD/tracks-v1a1/mono.m3u8?token=9a43dd7128cabb261ad58d3147e361b77f5d226d-98fe242f3d1fe327693f526c53e9b1d4-1774566875-1774556075
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",Colors HD
+http://103.144.89.251:8082/COLORS.HD/tracks-v1a1/mono.m3u8?token=e473079c9e7ed04e234748f65652b0d5e683d08b-c01ec61ff940a4af987f94c79eb01a79-1774566923-1774556123
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",Geo News
+http://103.144.89.251:8082/GEO.NEWS.HD/tracks-v1a1/mono.m3u8?token=46594235348b172f4bfe2d294c202e4972d7b0d0-92e31f0973dbe63554d2bf6ad2b65754-1774566962-1774556162
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",Hum Masala TV
+http://103.144.89.251:8082/HUM.MASALA.TV/tracks-v1a1/mono.m3u8?token=a0959afa143de10c250f596697cd88cd7f1f2b76-cd06f26652f4b029453257a813ea5f53-1774567003-1774556203
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",Sony Entertainment HD
+http://103.144.89.251:8082/SONY.ENT.HD/tracks-v1a1/mono.m3u8?token=4dab210b4038c5740c090f59e2292cba934ecadb-ea52e84255606012c0571c08e54a2c69-1774567048-1774556248
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",Sony Max HD
+http://103.144.89.251:8082/SONY.MAX.HD/tracks-v1a1/mono.m3u8?token=7f1096ef3dffa1bd90a6c04d6d6fd61a84a9e107-cd0dbda7b2e91fb37980537dd6af96b4-1774567139-1774556339
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",Star Bharat HD
+http://103.144.89.251:8082/STAR.BHARAT.HD/tracks-v1a1/mono.m3u8?token=45a70377fea054e14159c752fc96c772753118ae-0b6502b71b9cb08ca8dccd613e459355-1774567181-1774556381
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",Star Gold HD
+http://103.144.89.251:8082/STAR.GOLD.HD/tracks-v1a1/mono.m3u8?token=8d8dc38c9eb6f52296f83b34ae11cb5008d874f9-eca8ff68bf99b8bc1730f4d18bdb0345-1774567246-1774556446
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",Star Plus HD
+http://103.144.89.251:8082/STAR.PLUS.HD/tracks-v1a1/mono.m3u8?token=1c5eb7fb56a1a2f8f623153e15a5e363dcc3d6c5-b56c05d19cf58975859188f40b32bd58-1774567327-1774556527
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",Zee Cinema HD
+http://103.144.89.251:8082/ZEE.CINEMA.HD/tracks-v1a1/mono.m3u8?token=39812f3ebddd0b75560ef2c6023ed31e2cf8d317-1c6bf3f6c72adc74198ac3c40daafd9c-1774567363-1774556563
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",Zee TV HD
+http://103.144.89.251:8082/ZEE.TV.HD/tracks-v1a1/mono.m3u8?token=91b691917736904d5ca112b4f147dfafa96a006a-5b25a91353d3f827aa6b77ecd4a00dc2-1774567402-1774556602
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",Zing Music
+http://103.144.89.251:8082/ZING.MUSIC/tracks-v1a1/mono.m3u8?token=e4e279b5eab88e633c72d8266398b22469d8f28d-1b5286cec9e40b9abe06da5d0ffa5ee5-1774567438-1774556638
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",Zoom Music
+http://103.144.89.251:8082/ZOOM.MUSIC/tracks-v1a1/mono.m3u8?token=81a2e4d94e15bd4bf3f5aa7482faa1c077e2c6a2-fb849effaa699d811ac53678a2c68782-1774567477-1774556677
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",YRF Music HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",B4U Music
+http://103.175.73.12:8080/live/157/157_0.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",E24
+http://103.175.73.12:8080/live/159/159_0.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",HUNGAMA
+http://103.144.89.251:8082/HUNGAMA/tracks-v1a1/mono.m3u8?token=41ca001f4332c2a6e128469a0960fefe378e6082-5543a23716c9ef0fd0f36265dfda467f-1774567609-1774556809
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",Nick JR
+http://103.144.89.251:8082/NICK.JR/tracks-v1a1/mono.m3u8?token=c6d352df983805d7947786ff39fb4c29ce2af3f8-eb6af7f947235018bc5e60cc185b2961-1774567646-1774556846
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",Pogo
+http://103.144.89.251:8082/POGO/tracks-v1a1/mono.m3u8?token=3d56c48f6b7134643d77920cf7438fcd6086b8dd-4f389e72d5a8e5e171ae19d6c0736533-1774567686-1774556886
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",Sony Yay
+http://103.144.89.251:8082/SONY.YAY/tracks-v1a1/mono.m3u8?token=78234f709a7ab7e1ea27ce436a4d10bc7bc608b1-79a52be436585914fcde12d9af743fdc-1774567717-1774556917
+
+#EXTINF:-1 tvg-logo="" group-title="Hindi",Super Hungama
+http://103.144.89.251:8082/SUPER.HUNGAMA/tracks-v1a1/mono.m3u8?token=062d8ad093bad81d91385689fb47a4f30ce47cfd-523d144dcf4fda9e90fa54e2d340b946-1774567753-1774556953
+
+#EXTINF:-1 tvg-logo="" group-title="Documentary",Discovery HD
+http://103.144.89.251:8082/DISCOVERY.HD/tracks-v1a1/mono.m3u8?token=6e9a5313840fc5450513224f57ff6cd989b48b55-1d1d6dd0ceb6391e1b80669088e89dfb-1774568098-1774557298
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",Xplor HD
+http://103.144.89.251:8082/XPLOR.HD/tracks-v1a1/mono.m3u8?token=8459deec6ad78c518cb07d6e2e7e0da57e6b84c7-5b93a389ff8f47e560e6da9f51de5898-1774575059-1774564259
+
+#EXTINF:-1 tvg-logo="" group-title="Kids",Motu Patlu
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Kids",Jungle Book
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+
+# ================= English =================
+
+#EXTINF:-1 tvg-logo="" group-title="News",AlJAZEERA
+http://103.144.89.251:8082/ALJAZEERA.HD/tracks-v1a1/mono.m3u8?token=2270b5a6019b2424ace5c0633f01dacc1c957299-faddceafbfea005230a91e1d067f6e5e-1774575304-1774564504
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",&flix HD
+#http://103.144.89.251:8082/AND.FLIX.HD/tracks-v1a1/mono.m3u8?token=cca4bd0b59df9a8222f8c3d25a484b890eb4815c-e929408aef1c121d443baed0a7252a7b-1774575468-1774564668
+http://103.182.170.32:8888/play/a02a
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",&prive HD
+http://103.144.89.251:8082/AND.PRIVE.HD/tracks-v1a1/mono.m3u8?token=b6ec63b9f4747474526dde2c31f1e492cd1a62dc-6b54063ac4f23518f81a9e4b0a295290-1774578055-1774567255
+
+#EXTINF:-1 tvg-logo="" group-title="Documentary",Animal Planet HD
+http://103.144.89.251:8082/ANIMAL.PLANET.HD/tracks-v1a1/mono.m3u8?token=79449ab85939bdf1b5e4c6b7dd50f833a4101095-53c38c14f0e276f176796a167e265946-1774578128-1774567328
+
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",AXN HD
+http://103.144.89.251:8082/AXN.HD/tracks-v1a1/mono.m3u8?token=2d5dacc1917d508e3ef76c820eef8a40ba9989b5-3be558fd9081ef2e18acef756840bede-1774578293-1774567493
+
+#EXTINF:-1 tvg-logo="" group-title="Documentary",BBC Earth HD
+http://103.144.89.251:8082/BBC.Earth.HD/tracks-v1a1/mono.m3u8?token=ba36c5f4ab9d72367b7a6a65d6ee3b43615f4d27-20de36529d6be644bbef0b679fc2711b-1774578386-1774567586
+
+#EXTINF:-1 tvg-logo="" group-title="Documentary",HISTORY TV 18 HD
+#http://103.144.89.251:8082/HISTORY.TV.18.HD/tracks-v1a1/mono.m3u8?token=ba65c48d88034bd1b907f7fdc47597360e576bdb-554c2c3a244f3884c0da57d725601a27-1774578490-1774567690
+http://103.229.254.25:7001/play/a02z/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",Lotus TV HD
+http://103.144.89.251:8082/Lotus.TV.HD/tracks-v1a1/mono.m3u8?token=f7265542e759bff9bf0f01577fe39abf9d36a017-9cb2a003c3b076bc90c82c82647fb58b-1774578598-1774567798
+
+#EXTINF:-1 tvg-logo="" group-title="Documentary",LOVE NATURE HD
+http://103.144.89.251:8082/LOVE.NATURE.HD/tracks-v1a1/mono.m3u8?token=95034ed9f6ffd25a4286a6bb6e232ae99eede977-1b2e8cd07f714192734e579e8ef8c8ce-1774578680-1774567880
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",MN PLUS HD
+http://103.144.89.251:8082/MN.PLUS.HD/tracks-v1a1/mono.m3u8?token=7d6e188312569f9272dd996cd2c9c24c6e1946c8-ea16f7ec8ddb6b12fb3200eebc84f889-1774578768-1774567968
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",MNX HD
+http://103.144.89.251:8082/MNX.HD/tracks-v1a1/mono.m3u8?token=674d8adb583f517451b7e8a93fa82e0e4fe4b10a-d3fed788a640f0ef3b23e332641cc953-1774578833-1774568033
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",MOVIES NOW HD
+#http://103.144.89.251:8082/MOVIES.NOW.HD/tracks-v1/mono.m3u8?token=512288432f5518277a8c352498d964433e485e12-6334a14da13a8ba56a53fafbe4d9f11b-1774578883-1774568083
+http://103.182.170.32:8888/play/a01n
+
+#EXTINF:-1 tvg-logo="" group-title="Documentary",National Geographic HD
+#http://103.144.89.251:8082/NATGEO.HD/tracks-v1/mono.m3u8?token=032db5bfec310e59455d90cdee1882c453b15af9-c6907b082469b43a569904f489a0f8a0-1774578962-1774568162
+http://103.229.254.25:7001/play/a038/index.m3u8
+http://202.70.146.135:8000/play/a05o/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Documentary",National Geographic Wild HD
+#http://103.144.89.251:8082/NATGEO.WILD.HD/tracks-v1a1/mono.m3u8?token=420d67dbfddb75fad18baf0cd0b8a93969841457-5ecfe653f0ae150412b51e429bb412bf-1774579052-1774568252
+http://103.182.170.32:8888/play/a01r
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",ROMEDY NOW
+http://103.144.89.251:8082/ROMEDY.NOW/tracks-v1a1/mono.m3u8?token=741b852a87e916880fcb6e929606e15b62664423-8e360f430fe82362bf8bfca05aa484aa-1774579128-1774568328
+
+#EXTINF:-1 tvg-logo="" group-title="Documentary",SONY BBC EARTH HD
+http://103.144.89.251:8082/SONY.BBC.EARTH.HD/tracks-v1a1/mono.m3u8?token=2a92a70f4058212873b130011caf0c5c1fabdcd8-9eeccca9dea53c08bb41c5df6044391d-1774579207-1774568407
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",SONY PIX
+#http://103.144.89.251:8082/SONY.PIX.HD/tracks-v1a1/mono.m3u8?token=8f87b27962a4984901fe98698857c0a76a302464-dbc9da56b1096fad61abc564d939d25b-1774579272-1774568472
+http://103.182.170.32:8888/play/a027
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",STAR MOVIES HD
+http://103.144.89.251:8082/STAR.MOVIES.HD/tracks-v1a1/mono.m3u8?token=ecc7407f211aa2602951dca0b1ca709406c00603-037be3f07014083e2ee69f627afd05df-1774579326-1774568526
+
+#EXTINF:-1 tvg-logo="" group-title="Movies",STAR MOVIES SELECT HD
+http://103.144.89.251:8082/STAR.MOVIES.SEL.HD/tracks-v1a1/mono.m3u8?token=14ab8a6615003ce469c928d4f6734716c28c7aec-d2d92a79e32ea59b37786d9d56d90b5b-1774579357-1774568557
+
+#EXTINF:-1 tvg-logo="" group-title="Lifestyle",TLC HD
+#http://103.182.170.32:8888/play/a04o
+http://103.144.89.251:8082/TLC.HD/tracks-v1a1/mono.m3u8?token=f71cf71f24fcef91f92bab6395b08841596533ba-724f2820d97be2001656b3f55ac997f3-1774579426-1774568626
+
+#EXTINF:-1 tvg-logo="" group-title="Lifestyle",TRAVELXP HD
+#http://103.144.89.251:8082/TRAVELXP.HD/tracks-v1a1/mono.m3u8?token=41da6edba37be77ffa403ee76e8c1748724a719b-06c7fdd250861f6928953a00a671e6fd-1774579493-1774568693
+http://103.182.170.32:8888/play/a01x
+
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",ZEE CAFE HD
+#http://103.144.89.251:8082/ZEE.CAFE.HD/tracks-v1/mono.m3u8?token=5f38d8438a19ce153dfade0608d9b0c4cc37cd1f-803741b7547025a6927fdab1de75f34a-1774579555-1774568755
+http://103.182.170.32:8888/play/a01w
+
+#EXTINF:-1 tvg-logo="" group-title="Kids",CARTON NETWORK HD
+http://103.144.89.251:8082/CARTON.NETWORK.HD/tracks-v1/mono.m3u8?token=e455a718e9fd3e41800c8d1235071dd4cdb5d83f-6316998f2e376a7777f24a89c1cbb5c9-1774579637-1774568837
+
+#EXTINF:-1 tvg-logo="" group-title="Kids",Tom & Jarry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
