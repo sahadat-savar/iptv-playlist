@@ -210,7 +210,7 @@ http://103.175.73.12:8080/live/159/159_0.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Hindi",Nick JR
 https://liveovh011.cda.pl/2SHZi_SkX4h0MDflza1PPw/1753748478/3480440/enc010/nickjrraw/nickjrraw.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="Documentary",Discovery HD
+#EXTINF:-1 tvg-logo="" group-title="Documentary",Discovery HD [Hindi]
 http://103.229.254.25:7001/play/a03g/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Documentary",Discovery HD
