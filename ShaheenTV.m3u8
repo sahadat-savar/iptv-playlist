@@ -258,7 +258,6 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 http://103.144.89.251:8082/ALJAZEERA.HD/tracks-v1a1/mono.m3u8?token=2270b5a6019b2424ace5c0633f01dacc1c957299-faddceafbfea005230a91e1d067f6e5e-1774575304-1774564504
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",&flix HD
-http://103.144.89.251:8082/AND.FLIX.HD/tracks-v1a1/mono.m3u8?token=b51cea6fe8135bbd2960f9afe1082aaa47a42b64-88eafbc3cc66a6283a3a66c52fc3b852-1774588347-1774577547
 http://103.182.170.32:8888/play/a02a
 
 #EXTINF:-1 tvg-logo="" group-title="Movies",&prive HD
