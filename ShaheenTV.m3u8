@@ -363,9 +363,6 @@ http://202.70.146.135:8000/play/a05z/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Xplor HD
 http://103.144.89.251:8082/XPLOR.HD/tracks-v1a1/mono.m3u8?token=8459deec6ad78c518cb07d6e2e7e0da57e6b84c7-5b93a389ff8f47e560e6da9f51de5898-1774575059-1774564259
 
-#EXTINF:-1 tvg-logo="" group-title="Kids",Motu Patlu
-https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
-
 #EXTINF:-1 tvg-logo="" group-title="Kids",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
 
