@@ -8,7 +8,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",BTV Chattogram
 https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/a707f2dc-9704-413a-a67c-17c64a77c350/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Bangla | News",BTV News
+#EXTINF:-1 tvg-logo="" group-title="",BTV News
 https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="",BTV Sangsad
@@ -413,7 +413,7 @@ http://103.229.254.25:7001/play/a03f/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="",Animal Planet HD
 http://103.229.254.25:7001/play/a0dr/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",AXN HD
+#EXTINF:-1 tvg-logo="" group-title="",AXN HD
 http://103.144.89.251:8082/AXN.HD/tracks-v1a1/mono.m3u8?token=2d5dacc1917d508e3ef76c820eef8a40ba9989b5-3be558fd9081ef2e18acef756840bede-1774578293-1774567493
 
 #EXTINF:-1 tvg-logo="" group-title="",SONY BBC EARTH HD
@@ -440,16 +440,16 @@ http://103.182.170.32:8888/play/a028
 #EXTINF:-1 tvg-logo="" group-title="",HORROR TV
 https://streams2.sofast.tv/ptnr-yupptv/title-HORROR-TV-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/fbb01dd8-716d-4467-b24b-118c57b7ecb4/1.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Lifestyle",TLC HD
+#EXTINF:-1 tvg-logo="" group-title="",TLC HD
 http://103.182.170.32:8888/play/a01q
 
-#EXTINF:-1 tvg-logo="" group-title="Lifestyle",Travel XP HD
+#EXTINF:-1 tvg-logo="" group-title="",Travel XP HD
 http://103.182.170.32:8888/play/a01x
 
-#EXTINF:-1 tvg-logo="" group-title="Lifestyle",TravelXP EU HD
+#EXTINF:-1 tvg-logo="" group-title="",TravelXP EU HD
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Entertainment",ZEE CAFE HD
+#EXTINF:-1 tvg-logo="" group-title="",ZEE CAFE HD
 http://103.182.170.32:8888/play/a01w
 
 #EXTINF:-1 tvg-logo="" group-title="",BBC World
