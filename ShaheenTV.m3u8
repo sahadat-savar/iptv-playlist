@@ -372,7 +372,7 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 tvg-logo="" group-title="Kids",Nick
 http://103.182.170.32:8888/play/a04q
 
-#EXTINF:-1 tvg-logo="" group-title="WOW Kids",
+#EXTINF:-1 tvg-logo="" group-title="Kids",WOW Kids
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Kids",Sonic
